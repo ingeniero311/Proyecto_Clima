@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/01/20 10:15:45.000.465,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/02/17 12:13:48.000.888,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/02/17 12:15:25.000.383,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/02/22 12:41:21.000.924,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/02/26 09:35:09.000.283,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\apk10.pas=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/02/26 09:35:09.000.283,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\apk10.fmx=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2018/02/26 14:10:49.000.499,C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\apkpj.dproj=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/02/27 10:07:39.000.480,=C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\Unit2.pas</Transaction>
+    <Transaction>2018/02/27 10:34:39.000.362,=C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\Unit3.pas</Transaction>
+    <Transaction>2018/02/27 19:50:45.000.651,C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\apkpj.dproj=C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\Retro_H_IoT.dproj</Transaction>
+    <Transaction>2018/03/01 09:03:21.000.091,=C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\Unit1.pas</Transaction>
+    <Transaction>2018/03/01 09:06:54.000.574,C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\Unit1.fmx=C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\about.fmx</Transaction>
+    <Transaction>2018/03/01 09:06:54.000.574,C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\Unit1.pas=C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\about.pas</Transaction>
+    <Transaction>2018/03/01 15:47:26.000.162,=C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\Unit1.pas</Transaction>
+    <Transaction>2018/03/01 15:49:42.000.896,C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\con_blue.pas=C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\Unit1.pas</Transaction>
+    <Transaction>2018/03/01 15:49:42.000.896,C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\con_blue.fmx=C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\Unit1.fmx</Transaction>
+    <Transaction>2018/03/01 20:52:33.000.743,=C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\Unit1.pas</Transaction>
+    <Transaction>2018/03/01 20:53:48.000.734,C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\Unit1.pas=C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\proynw.pas</Transaction>
+    <Transaction>2018/03/01 20:53:48.000.734,C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\Unit1.fmx=C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\proynw.fmx</Transaction>
+    <Transaction>2018/03/07 18:21:32.000.748,=C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\Unit1.pas</Transaction>
+    <Transaction>2018/03/07 18:32:40.000.991,C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\proynw.pas=</Transaction>
+    <Transaction>2018/03/07 18:32:57.000.768,C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\Unit1.fmx=C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\proynw.fmx</Transaction>
+    <Transaction>2018/03/07 18:32:57.000.768,C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\Unit1.pas=C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\proynw.pas</Transaction>
+    <Transaction>2018/03/07 18:32:57.000.785,C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\proynw.fmx=C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\Unit1.fmx</Transaction>
+    <Transaction>2018/03/07 18:32:57.000.785,C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\proynw.pas=C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\Unit1.pas</Transaction>
+    <Transaction>2018/03/07 18:33:16.000.776,C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\Unit1.pas=C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\proyn.pas</Transaction>
+    <Transaction>2018/03/07 18:33:16.000.776,C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\Unit1.fmx=C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\proyn.fmx</Transaction>
+    <Transaction>2018/03/10 08:08:58.000.179,=C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\Unit1.pas</Transaction>
+    <Transaction>2018/03/10 08:26:41.000.785,C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\edtpy.pas=C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\Unit1.pas</Transaction>
+    <Transaction>2018/03/10 08:26:41.000.785,C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\edtpy.fmx=C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\Unit1.fmx</Transaction>
+    <Transaction>2018/03/10 08:40:15.000.293,C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\edtpy.pas=</Transaction>
+    <Transaction>2018/03/10 08:41:17.000.003,=C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\edtpy.pas</Transaction>
+    <Transaction>2018/03/13 16:58:20.000.009,C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\tabladt.fmx=C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\Unit3.fmx</Transaction>
+    <Transaction>2018/03/13 16:58:20.000.009,C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\tabladt.pas=C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\Unit3.pas</Transaction>
+    <Transaction>2018/04/05 08:12:52.000.971,=C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\Unit1.pas</Transaction>
+    <Transaction>2018/04/05 08:13:36.000.455,C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\BTClass.pas=C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\Unit1.pas</Transaction>
+    <Transaction>2018/04/05 08:26:25.000.987,C:\Users\Admin\Documents\ITVIAL DISCO\Proyectos Juan y Jorge\Proyecto Retro Horizontal V3.0\Sof\Apk Retro\V1.0\BTClass.pas=</Transaction>
+    <Transaction>2018/04/19 07:10:08.000.725,=C:\Users\Admin\Desktop\V1.0\apk10.pas</Transaction>
+    <Transaction>2018/04/19 11:28:37.387,C:\Users\Admin\Desktop\V1.0\Clima.dproj=C:\Users\Admin\Desktop\V1.0\Retro_H_IoT.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="NXPDU17B18000531"/>
+	</ActiveMobileDevice>
+</BorlandProject>
